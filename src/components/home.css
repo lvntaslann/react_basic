@@ -1,0 +1,5 @@
+.image-size {
+    width: 150px;
+    height: 150px;
+    object-fit: cover; /* Resmin orantısız şekilde sıkıştırılmasını önler */
+  }
