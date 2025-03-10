@@ -1,0 +1,67 @@
+const instagramFeed = [
+    {
+      id: 1,
+      username: "food.explorer",
+      time: "1h",
+      profileImg: "https://picsum.photos/200/300?random/?kitchen",
+      postImg: "https://picsum.photos/200/300?random/?food",
+      mutualFrndImg1: "https://picsum.photos/200/300?random/?boy",
+      mutualFrndImg2: "https://picsum.photos/200/300?random/?girl",
+      likeCount: "2, 00, 000",
+      caption: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      commentCount: "100",
+    },
+    {
+      id: 2,
+      username: "nature.lover",
+      time: "1h",
+      profileImg: "https://picsum.photos/200/300?random/?adventure",
+      postImg: "https://picsum.photos/200/300?random/?nature",
+      mutualFrndImg1: "https://picsum.photos/200/300?random/?girl",
+      mutualFrndImg2: "https://picsum.photos/200/300?random/?boy",
+      likeCount: "2, 00, 000",
+      caption:
+        "Many touriest came nepal from all over the world to explore the beauty of the land & see the amazing natural places.",
+      commentCount: "100",
+    },
+    {
+      id: 3,
+      username: "reelsofworld",
+      time: "1h",
+      profileImg: "https://picsum.photos/200/300?random/?videography",
+      postImg: "https://picsum.photos/200/300?random/?sport",
+      mutualFrndImg1: "https://picsum.photos/200/300?random/?girl",
+      mutualFrndImg2: "https://picsum.photos/200/300?random/?boy",
+      likeCount: "2, 00, 000",
+      caption: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      commentCount: "100",
+    },
+    {
+      id: 4,
+      username: "carlover",
+      time: "1h",
+      profileImg: "https://picsum.photos/200/300?random/?luxurycar",
+      postImg: "https://picsum.photos/200/300?random/?car",
+      mutualFrndImg1: "https://picsum.photos/200/300?random/?girl",
+      mutualFrndImg2: "https://picsum.photos/200/300?random/?boy",
+      likeCount: "2, 00, 000",
+      caption:
+        "Many touriest came nepal from all over the world to explore the beauty of the land & see the amazing natural places.",
+      commentCount: "100",
+    },
+    {
+      id: 5,
+      username: "godness",
+      time: "1h",
+      profileImg: "https://picsum.photos/200/300?random/?godness",
+      postImg: "https://picsum.photos/200/300?random/?god",
+      mutualFrndImg1: "https://picsum.photos/200/300?random/?boy",
+      mutualFrndImg2: "https://picsum.photos/200/300?random/?girl",
+      likeCount: "2, 00, 000",
+      caption: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      commentCount: "100",
+    },
+  ];
+  
+  export default instagramFeed;
+  

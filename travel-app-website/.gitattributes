@@ -1,0 +1,9 @@
+# JavaScript dosyalarını belirleme
+*.js linguist-language=JavaScript
+
+# Eğer JSX dosyaları varsa
+*.jsx linguist-language=JavaScript
+
+# Eğer diğer dosya türleri de varsa
+*.json linguist-language=JSON
+*.css linguist-language=CSS
